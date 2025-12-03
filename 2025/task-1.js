@@ -1,3 +1,5 @@
+import { input } from "./task-1"
+
 const sequence = [
   "L68",
     "L30",
@@ -23,3 +25,5 @@ const turnDial = (current, seq) => {
 }
 
 console.log(turnDial(start, sequence))
+
+
