@@ -1,5 +1,5 @@
 {
-  "name": "day-01",
+  "name": "day-02",
   "type": "module",
   "scripts": {
     "start": "node index.js"
